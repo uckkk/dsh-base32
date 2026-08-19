@@ -1,0 +1,4 @@
+# Base32 编解码（RFC 4648）（dsh-base32）bundle patch：作为 profile 的一层 patch，插入本插件的加载行。
+- insert:
+    - id: base32
+      name: 'dsh-base32'
